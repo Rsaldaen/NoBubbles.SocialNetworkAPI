@@ -8,7 +8,6 @@
 [3. Walkthrough Videos](#Walkthrough-Videos)  
 [4. Installation](#Installation)  
 [5. Submission](#Submission)   
-[8. Questions](#Questions)  
 
 ## Description:
 Build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
